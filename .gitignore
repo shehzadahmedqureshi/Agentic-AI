@@ -1,0 +1,13 @@
+# Ignore environment variables
+.env
+
+# Node.js
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# macOS
+.DS_Store
