@@ -1,6 +1,6 @@
-# Conversational AI Playground - Setup & Usage
+# Agentic AI Playground - Setup & Usage
 
-Welcome to the Conversational AI Playground! This project lets you build, customize, and interact with your own AI agent using a modern Python stack. Follow this guide to get started, set up your environment, and run the application.
+Welcome to the Agentic AI Playground! This project lets you build, customize, and interact with your own AI agent using a modern Python stack. Follow this guide to get started, set up your environment, and run the application.
 
 ---
 
