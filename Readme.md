@@ -100,5 +100,3 @@ Choose your preferred method to set up a Python environment:
 - Explore and modify the system prompt and model options in the UI to customize your agent!
 
 ---
-
-Enjoy building with the Conversational AI Playground!
