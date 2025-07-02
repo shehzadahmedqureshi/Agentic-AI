@@ -100,3 +100,7 @@ Choose your preferred method to set up a Python environment:
 - Explore and modify the system prompt and model options in the UI to customize your agent!
 
 ---
+
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/1DrNwtae8As/maxresdefault.jpg)](https://youtu.be/1DrNwtae8As)
